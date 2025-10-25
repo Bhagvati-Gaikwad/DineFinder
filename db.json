@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "id": "fbb5",
+      "name": "moto",
+      "email": "moto@test",
+      "password": "abc@123"
+    },
+    {
+      "id": "66a3",
+      "email": "weepingwillow@gmail.com",
+      "password": "wewow111",
+      "name": "weeper"
+    },
+    {
+      "id": "7381",
+      "email": "weepingwillow@gmail.com",
+      "password": "weweoeqqq",
+      "name": "weepingwillow@gmail.com"
+    },
+    {
+      "id": "7fd4",
+      "email": "1",
+      "password": "weoeo",
+      "name": ""
+    },
+    {
+      "id": "1dde",
+      "email": "mau@test",
+      "password": "mau",
+      "name": "mau"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "Burger King",
+      "contact": 11111,
+      "address": "Pune city"
+    },
+    {
+      "id": "2",
+      "name": "Pizza Hut",
+      "contact": 11221,
+      "address": "Pune city"
+    },
+    {
+      "id": "e01a",
+      "name": "Taco Bell",
+      "contact": 13221,
+      "address": "Viman nagar"
+    },
+    {
+      "name": "tao bao",
+      "address": "KP",
+      "contact": "17922",
+      "id": "cf72"
+    }
+  ]
+}
