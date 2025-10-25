@@ -1,8 +1,8 @@
 # 🍽️ DineFinder
 
 <p align="center">
-  <img src=<img width="927" height="695" alt="df" src="https://github.com/user-attachments/assets/cc032325-0c04-404f-a8c8-d510e6ab6e3f" />
- width="300"/>
+  <img width="927" height="695" alt="df" src="https://github.com/user-attachments/assets/0152f235-cc06-4ceb-ba72-c4a767ce43f3" />
+ />
 </p>
 
 <p align="center">
