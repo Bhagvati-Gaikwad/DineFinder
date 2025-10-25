@@ -71,3 +71,12 @@ This project is open-source. See the `LICENSE` file for details (if you have one
 ## 👤 Contact
 
 Bhagvati Gaikwad - [GitHub Profile](https://github.com/Bhagvati-Gaikwad)
+
+## Expected Output
+<img width="847" height="1144" alt="image" src="https://github.com/user-attachments/assets/60625488-8ef5-44bd-b802-939d9aca0e4c" />
+<img width="850" height="1077" alt="image" src="https://github.com/user-attachments/assets/beefbff7-78de-4fa2-bc7d-aa7059c64ec5" />
+<img width="2880" height="1146" alt="image" src="https://github.com/user-attachments/assets/d92ef575-7fbf-4d02-a404-8467a4532bf3" />
+
+
+
+##
