@@ -1,7 +1,8 @@
 # 🍽️ DineFinder
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="DineFinder Logo" width="300"/>
+  <img src=<img width="927" height="695" alt="df" src="https://github.com/user-attachments/assets/cc032325-0c04-404f-a8c8-d510e6ab6e3f" />
+ width="300"/>
 </p>
 
 <p align="center">
