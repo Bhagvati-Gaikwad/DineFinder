@@ -1,7 +1,7 @@
 # 🍽️ DineFinder
 
 <p align="center">
-  <img width="927" height="695" alt="df" src="https://github.com/user-attachments/assets/0152f235-cc06-4ceb-ba72-c4a767ce43f3" />
+  <img width="500" height="600" alt="df" src="https://github.com/user-attachments/assets/0152f235-cc06-4ceb-ba72-c4a767ce43f3" />
  />
 </p>
 
@@ -74,7 +74,7 @@ This project is open-source. See the `LICENSE` file for details (if you have one
 Bhagvati Gaikwad - [GitHub Profile](https://github.com/Bhagvati-Gaikwad)
 
 ## Expected Output
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/60625488-8ef5-44bd-b802-939d9aca0e4c" />
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/beefbff7-78de-4fa2-bc7d-aa7059c64ec5" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/60625488-8ef5-44bd-b802-939d9aca0e4c" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/beefbff7-78de-4fa2-bc7d-aa7059c64ec5" />
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/d92ef575-7fbf-4d02-a404-8467a4532bf3" />
 
