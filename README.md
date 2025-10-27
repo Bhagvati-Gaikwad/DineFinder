@@ -9,6 +9,8 @@
   Find your next meal! A web application for discovering local restaurants, browsing dining options, and getting directions.
 </p>
 
+## Live at https://dinefinderapp.netlify.app/sign-up
+
 ## ✨ Features
 
 * **Discover:** Search for local restaurants by name, cuisine, or location.
