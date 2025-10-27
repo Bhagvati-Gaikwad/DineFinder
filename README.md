@@ -2,7 +2,6 @@
 
 <p align="center">
   <img width="500" height="600" alt="df" src="https://github.com/user-attachments/assets/0152f235-cc06-4ceb-ba72-c4a767ce43f3" />
- />
 </p>
 
 <p align="center">
